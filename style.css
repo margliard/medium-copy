@@ -1,0 +1,57 @@
+body {
+  font-family: 'Poiret One', cursive;
+}
+
+.banner {
+  background-image: url(https://source.unsplash.com/random/1000x500);
+  background-size: cover;
+  color: white;
+  padding: 120px 50px;
+}
+
+.title {
+  color: white;
+  text-align: center;
+  text-shadow: 1px 1px 2px grey;
+  font-size: 30px;
+  font-family: 'Sigmar One', cursive;
+}
+
+.description {
+  color: white;
+  text-align: center;
+  text-shadow: 1px 1px 2px grey;
+  font-size: 20px;
+  font-family: 'Sigmar One', cursive;
+}
+
+.content {
+  padding: 30px;
+  margin: 30px;
+}
+
+h3 {
+  color: rgb(76, 132, 152);
+  font-size: 22px;
+  padding-bottom: 5px;
+  font-family: 'Sigmar One', cursive;
+}
+
+p {
+  color: rgb(53, 49, 48);
+  font-size: 17px;
+  padding-bottom: 5px;
+}
+
+.link-medium {
+  text-decoration: none;
+  background: rgb(209, 243, 255);
+  color: rgb(48, 52, 53);
+  margin-bottom: 50px;
+}
+
+.link-medium:hover {
+  text-decoration: none;
+  color: white;
+  background: rgb(76, 132, 152);
+}
